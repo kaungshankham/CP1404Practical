@@ -9,7 +9,6 @@ from collections import namedtuple
 
 from programming_language import ProgrammingLanguage
 
-
 def main():
     """Read file of programming language details, save as objects, display."""
     languages = []
