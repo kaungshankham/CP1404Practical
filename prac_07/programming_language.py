@@ -3,7 +3,6 @@ CP1404/CP5632 Practical - Suggested Solution
 Programming Language class with tests.
 """
 
-
 class ProgrammingLanguage:
     """Represent information about a programming language."""
 

@@ -1,6 +1,5 @@
 """Project class program"""
 
-
 class Project:
     """Represent information of project"""
 

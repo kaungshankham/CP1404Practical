@@ -3,7 +3,6 @@
 CURRENT_YEAR = 2023
 VINTAGE_MINIMUM_YEAR = 50
 
-
 class Guitar:
     """Represent data of a guitar"""
 

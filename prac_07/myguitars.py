@@ -3,7 +3,6 @@ from week_7.guitar import Guitar
 
 FILE_NAME = 'guitars.csv'
 
-
 def main():
     """Display existing guitars and prompt user for new guitar to add and display."""
     guitars = []
